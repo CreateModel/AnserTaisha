@@ -2,4 +2,4 @@
 simulate a anser robot of web
 start it with python file
 
-visit web page you will get a sentense to help you or spirit you.
+When you visit the website, you will see a sentence which maybe can help you or spirit you.
